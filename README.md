@@ -1,6 +1,7 @@
 # DARK MODE ON WEB
 
 >It's works on IE 11 (Internet Explorer 11) 
+
 Lately, there has been a lot of hype surrounding dark mode, a simple toggle that lets you change the background color of an app window to black.
 
 From apps to operating systems, Apple to Google, smartphones to laptops, many of the products we use today have some type of dark mode integrated into the user interface.
